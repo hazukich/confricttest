@@ -1,2 +1,2 @@
-hello everyone my name is ops...... I am killed......
+hello everyone my name
 # confricttest
